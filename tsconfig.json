@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "outDir": "./example/",
+        "rootDir": "./src"
+    },
+    "exclude": ["node_modules"]
+}
